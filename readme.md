@@ -4,7 +4,7 @@ Simple External ESP for CS:GO.
 ## Get Started
 1. Clone the repository
 ```
-git clone https://github.com/kava4/csgomplampla.git
+git clone https://github.com/Kava4/CSGO-External-Python-Wallhack.git
 ```
 
 2. Install the prerequisites
